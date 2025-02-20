@@ -1,2 +1,2 @@
-# test-tycoon
+# Test Tycoon
 Test game for vacancy
